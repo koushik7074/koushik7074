@@ -3,7 +3,6 @@
 <!--
 **koushik7074/koushik7074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...building up my GitHub profile with data-science projects
 - 🌱 I’m currently learning ...Exploratory Data Analysis( EDA ) with Python, Supervised and Unsupervised Machine Learning Algorithms, Neural Network etc. 
