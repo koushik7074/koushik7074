@@ -14,13 +14,6 @@ Recent Projects that I have worked on:
 
 ---
 
-## 🎯 Current Focus
-- Advanced **GenAI systems (RAG, Agents, Tool-calling)**
-- Production-grade **ML pipelines**
-- Bridging **Data Engineering + AI/ML** for scalable systems
-
----
-
 ## 📫 Connect With Me
 - 💼 LinkedIn: *(https://www.linkedin.com/in/koushik-biswas-juiitm/)*  
 - 📧 Email: *(bkoushik81@gmail.com)*  
